@@ -11,7 +11,6 @@ What things you need to install the software and how to install them
 
 [Node - Click to download](https://nodejs.org/en/)
 
-```
 #### Downloading this repository
 Download this repo using the ```git clone``` command:
 
